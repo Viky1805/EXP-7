@@ -99,6 +99,9 @@ Buyers submit offers, and the contract auto-negotiates the price.
 
 If the buyer’s offer is fair, the deal is executed.
 
+<img width="407" height="648" alt="Screenshot 2026-03-12 093021" src="https://github.com/user-attachments/assets/fc8a5f2e-1e88-414b-8f29-f0effe12f265" />
+
+
 
 If the offer is too low, the contract suggests a counteroffer.
 
